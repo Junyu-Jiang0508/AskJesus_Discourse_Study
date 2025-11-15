@@ -1,0 +1,56 @@
+Frame,Support,BERT_Precision,BERT_Recall,BERT_F1,LogReg_F1,BERT_LRAP,Train_Support,Eval_Support
+Cultural Identity_Community & Fellowship,0,0,0,0,0,0,9,0
+Cultural Identity_Divine Judgment / Eschatology,2,0.0321,0.0875,0.0468,0,0.215,2,2
+Cultural Identity_Evangelism / Testimony,1,0.0285,0.1024,0.0447,0,0.198,2,1
+Cultural Identity_Faith / Doctrine,3,0,0,0,0.8,0,10,3
+Cultural Identity_Moral Guidance,0,0,0,0,0,0,1,0
+Cultural Identity_Sacred Humor / Pop Fusion,1,0.0268,0.0943,0.0418,0,0.187,9,1
+Cultural Identity_Scriptural Storytelling,1,0.0292,0.1056,0.0456,0,0.202,15,1
+Cultural Identity_Spiritual Comfort,0,0,0,0,0,0,1,0
+Fairness & Equality_Community & Fellowship,0,0,0,0,0,0,3,0
+Fairness & Equality_Faith / Doctrine,1,0.0315,0.0921,0.0467,0,0.21,0,1
+Fairness & Equality_Spiritual Comfort,0,0,0,0,0,0,1,0
+Faith / Doctrine_Community & Fellowship,0,0,0,0,0,0,1,0
+Faith / Doctrine_Divine Judgment / Eschatology,0,0,0,0,0,0,1,0
+Faith / Doctrine_Evangelism / Testimony,0,0,0,0,0,0,2,0
+Faith / Doctrine_Faith / Doctrine,4,0,0,0,0.3333,0,12,4
+Faith / Doctrine_Scriptural Storytelling,0,0,0,0,0,0,2,0
+Faith / Doctrine_Spiritual Comfort,0,0,0,0,0,0,2,0
+Health & Safety_Community & Fellowship,1,0.0302,0.0987,0.0461,0,0.205,1,1
+Health & Safety_Divine Judgment / Eschatology,1,0.0278,0.0965,0.0432,0,0.192,1,1
+Health & Safety_Faith / Doctrine,0,0,0,0,0,0,2,0
+Health & Safety_Spiritual Comfort,1,0.0295,0.1012,0.0458,0,0.201,3,1
+Legality & Jurisdiction_Community & Fellowship,1,0.0318,0.1045,0.0487,0,0.218,1,1
+Moral Guidance_Community & Fellowship,0,0,0,0,0,0,1,0
+Morality & Ethics_Community & Fellowship,3,0,0,0,0.4,0,7,3
+Morality & Ethics_Divine Judgment / Eschatology,4,0.0358,0.1125,0.0542,0,0.245,8,4
+Morality & Ethics_Evangelism / Testimony,0,0,0,0,0,0,2,0
+Morality & Ethics_Faith / Doctrine,3,0,0,0,0.1538,0,10,3
+Morality & Ethics_Grace Reciprocity,0,0,0,0,0,0,1,0
+Morality & Ethics_Moral Guidance,3,0,0,0,0.2857,0,8,3
+Morality & Ethics_Scriptural Storytelling,0,0,0,0,0,0,2,0
+Morality & Ethics_Spiritual Comfort,1,0.0276,0.0987,0.0432,0,0.192,3,1
+Political & Power_Community & Fellowship,2,0.0332,0.1021,0.0501,0,0.225,4,2
+Political & Power_Divine Judgment / Eschatology,0,0,0,0,0,0,1,0
+Political & Power_Evangelism / Testimony,0,0,0,0,0,0,2,0
+Political & Power_Faith / Doctrine,0,0,0,0,0,0,2,0
+Public Sentiment_Community & Fellowship,5,0,0,0,0.4,0,22,5
+Public Sentiment_Divine Judgment / Eschatology,1,0.0301,0.1052,0.0465,0,0.205,0,1
+Public Sentiment_Evangelism / Testimony,0,0,0,0,0,0,5,0
+Public Sentiment_Faith / Doctrine,0,0,0,0,0,0,2,0
+Public Sentiment_Grace Reciprocity,1,0,0,0,1,0,6,1
+Public Sentiment_Moral Guidance,0,0,0,0,0,0,1,0
+Public Sentiment_Sacred Humor / Pop Fusion,3,0.0385,0.1201,0.0582,0,0.265,3,3
+Public Sentiment_Scriptural Storytelling,0,0,0,0,0,0,3,0
+Public Sentiment_Spiritual Comfort,0,0,0,0,0,0,3,0
+Quality of Life_Community & Fellowship,2,0.0342,0.1087,0.0518,0,0.235,9,2
+Quality of Life_Evangelism / Testimony,0,0,0,0,0,0,2,0
+Quality of Life_Faith / Doctrine,1,0.0298,0.1015,0.0461,0,0.201,0,1
+Quality of Life_Moral Guidance,1,0.0279,0.0976,0.0434,0,0.195,2,1
+Quality of Life_Sacred Humor / Pop Fusion,1,0.0265,0.0932,0.0413,0,0.186,3,1
+Quality of Life_Spiritual Comfort,4,0,0,0,0.1538,0,15,4
+Unknown_Community & Fellowship,0,0,0,0,0,0,1,0
+Unknown_Divine Judgment / Eschatology,0,0,0,0,0,0,1,0
+Unknown_Faith / Doctrine,0,0,0,0,0,0,1,0
+Unknown_Spiritual Comfort,1,0.0282,0.0991,0.0438,0,0.196,1,1
+OVERALL,53,0.0689,0.1117,0.0808,0.126,0.3207,,
